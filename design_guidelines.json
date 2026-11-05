@@ -1,0 +1,189 @@
+{
+  "project_metadata": {
+    "title": "Mathu's 2026 Birthday Experience — For My Pappuma🤍",
+    "target_recipient": "Mathu (Pappuma🤍)",
+    "author": "Nithin",
+    "relationship_duration": "2½ Years (912+ days)",
+    "birthday_date": "2026-11-17T00:00:00",
+    "app_type": "landing_page",
+    "aesthetic_archetype": "Luxury Editorial / Award-Winning Romantic One-Pager (Awwwards Style)"
+  },
+  "color_palette": {
+    "theme": "Ivory White, Champagne & Rose Gold",
+    "base_ivory": "#FAF6F0",
+    "warm_silk": "#FFFDF9",
+    "champagne_gold": "#E8D3B9",
+    "champagne_accent": "#F4E6D4",
+    "rose_gold_primary": "#C87D87",
+    "rose_gold_light": "#F2D6DC",
+    "rose_gold_deep": "#8C4A52",
+    "deep_burgundy_text": "#361622",
+    "vintage_plum": "#4A1E2E",
+    "glass_border": "rgba(200, 125, 135, 0.2)",
+    "shadow_rose": "rgba(140, 74, 82, 0.08)"
+  },
+  "typography": {
+    "hero_display_font": "Playfair Display, Cormorant Garamond, serif",
+    "subheading_font": "Montserrat, Plus Jakarta Sans, sans-serif",
+    "body_font": "Plus Jakarta Sans, Inter, sans-serif",
+    "handwritten_accent": "Caveat, Dancing Script, cursive",
+    "scale": {
+      "h1_hero": "text-4xl sm:text-5xl md:text-6xl font-serif tracking-tight leading-tight",
+      "h2_section": "text-3xl sm:text-4xl lg:text-5xl font-serif text-deep_burgundy_text",
+      "h3_card": "text-xl sm:text-2xl font-serif text-rose_gold_deep",
+      "body": "text-base sm:text-lg leading-relaxed text-slate-700 font-light",
+      "caption": "text-xs sm:text-sm tracking-widest uppercase font-medium text-rose_gold_primary"
+    }
+  },
+  "exact_sections": [
+    {
+      "id": "welcome_hero",
+      "name": "Welcome to Mathu's surprise",
+      "description": "Kinetic luxury hero with signature line-by-line reveal, animated heart motif, floating champagne sparkle particles, and audio music player toggle (Nithin & Mathu's song).",
+      "key_elements": [
+        "Headline: 'Happy Birthday, My Pappuma 🤍'",
+        "Subline: '2½ years of magical memories, endless laughs, and infinite love'",
+        "CTA buttons: 'Explore Our Story' & 'Listen to Our Melody'",
+        "Floating personalized badges: 'Nithin ♥ Mathu', 'Nov 17, 2026', '912+ Days Together'"
+      ]
+    },
+    {
+      "id": "live_countdown",
+      "name": "Live birthday countdown",
+      "description": "Real-time precise countdown timer (Days, Hours, Minutes, Seconds) ticking down to November 17, 2026 with rose gold glass cards and celebratory sparkles.",
+      "key_elements": [
+        "Live ticking flip/glass counter cards",
+        "Personalized status note: 'Counting down every single second until my Pappuma's special day!'",
+        "Milestone counter: 912+ Days of pure bliss"
+      ]
+    },
+    {
+      "id": "our_journey",
+      "name": "Our 2½ Years Journey",
+      "description": "Interactive horizontal or vertical curved timeline tracing key milestones of Nithin & Mathu's 2.5 year love story.",
+      "milestones": [
+        "Day 1: The First Hello — The moment Nithin's world changed forever",
+        "Month 6: Our First Trip — Sunset walks and endless laughter",
+        "Year 1: 365 Days of Love — Learning each other's favorite coffee and secret jokes",
+        "Year 2: Growing Stronger Together — Supporting each other through every thick and thin",
+        "Year 2.5 (Today): Pappuma's Birthday Celebration — 912+ days and forever to go!"
+      ]
+    },
+    {
+      "id": "our_memories",
+      "name": "Our Memories",
+      "description": "Editorial photo gallery with spotlight frame effects, polaroid tilt cards, soft grain overlay, light zoom on hover, and lightbox view.",
+      "visual_style": "Clipped aesthetic frames, soft drop shadows, champagne rose borders"
+    },
+    {
+      "id": "reasons_i_love_you",
+      "name": "10 Reasons I Love You",
+      "description": "Interactive grid of 10 romantic flip cards / reveal tiles customized specifically for Mathu (Pappuma🤍).",
+      "reasons": [
+        "1. Your contagious smile that lights up Nithin's darkest days",
+        "2. The cute way you call me when you want attention",
+        "3. How we can talk for hours about absolutely nothing",
+        "4. Your kind and compassionate heart that cares for everyone",
+        "5. The warmth of your hugs that feel like coming home",
+        "6. 2½ years of being my best friend and soulmate",
+        "7. The way your eyes sparkle when you laugh out loud",
+        "8. How you make every ordinary day feel like a special adventure",
+        "9. Your endless patience and love for Nithin",
+        "10. Simply because you are Mathu — my one and only Pappuma🤍"
+      ]
+    },
+    {
+      "id": "letter_to_pappuma",
+      "name": "A Letter to My Pappuma",
+      "description": "An intimate, handwritten-style romantic envelope that unfolds into a heartfelt love letter from Nithin to Mathu with soft ambient lighting.",
+      "letter_preview": "My Dearest Pappuma, 2 and a half years ago, you walked into my life and turned every ordinary moment into poetry..."
+    },
+    {
+      "id": "open_little_gift",
+      "name": "Open Your Little Gift",
+      "description": "Interactive 3D gift box with ribbon unwrap click interaction, confetti shower, and popup coupon vouchers (e.g. '1x Dinner Date of Choice', 'Unlimited Warm Hugs', 'Late Night Ice Cream Run').",
+      "gift_vouchers": [
+        "✨ Romantic Candlelight Dinner Date (Nithin's treat!)",
+        "🍦 Late Night Ice Cream & Star Gazing",
+        "🎟️ Movie Night with Unlimited Snacks & Cuddles",
+        "👑 Queen for a Day — Pappuma makes all decisions!"
+      ]
+    },
+    {
+      "id": "locked_birthday_reveal",
+      "name": "Locked Birthday Reveal",
+      "description": "Exclusive secret reveal card with countdown lock for Nov 17, 2026 + instant Secret Passcode Override ('PAPPUMA2026' or 'LOVE') for Nithin/Mathu to unlock preview right now.",
+      "unlocked_content": "A special video message / photo collage reveal & Nithin's secret birthday promise for the years ahead!"
+    }
+  ],
+  "image_urls": [
+    {
+      "category": "Hero Romantic Candlelight / Couple Moment",
+      "url": "https://images.unsplash.com/photo-1560439972-1af698047fa3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxNzV8MHwxfHNlYXJjaHw0fHxyb21hbnRpYyUyMGNvdXBsZSUyMHJvbWFuY2UlMjBhZXN0aGV0aWMlMjBjYW5kbGUlMjBsaWdodCUyMHJvc2UlMjBnb2xkJTIwY2hhbXBhZ25lfGVufDB8fHx8MTc5MzcwMDcwN3ww&ixlib=rb-4.1.0&q=85",
+      "description": "Cozy romantic room with glowing warm candles and couple ambiance",
+      "section_usage": "Welcome Hero section overlay background / Memory feature"
+    },
+    {
+      "category": "Sunset Romance / 2.5 Year Journey",
+      "url": "https://images.unsplash.com/photo-1513279922550-250c2129b13a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxNzV8MHwxfHNlYXJjaHwxfHxyb21hbnRpYyUyMGNvdXBsZSUyMHJvbWFuY2UlMjBhZXN0aGV0aWMlMjBjYW5kbGUlMjBsaWdodCUyMHJvc2UlMjBnb2xkJTIwY2hhbXBhZ25lfGVufDB8fHx8MTc5MzcwMDcwN3ww&ixlib=rb-4.1.0&q=85",
+      "description": "Couple sitting together looking over city night lights with glowing candles",
+      "section_usage": "Our 2½ Years Journey hero backdrop"
+    },
+    {
+      "category": "Champagne & Candlelight Aesthetics",
+      "url": "https://images.unsplash.com/photo-1556229868-7b2d4b56b909?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxNzV8MHwxfHNlYXJjaHwzfHxyb21hbnRpYyUyMGNvdXBsZSUyMHJvbWFuY2UlMjBhZXN0aGV0aWMlMjBjYW5kbGUlMjBsaWdodCUyMHJvc2UlMjBnb2xkJTIwY2hhbXBhZ25lfGVufDB8fHx8MTc5MzcwMDcwN3ww&ixlib=rb-4.1.0&q=85",
+      "description": "Romantic couple on beach watching sunset together",
+      "section_usage": "Our Memories gallery featured card"
+    },
+    {
+      "category": "Gift Box & Flower Elegance",
+      "url": "https://images.unsplash.com/photo-1625552186152-668cd2f0b707?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzR8MHwxfHNlYXJjaHwyfHxnaWZ0JTIwYm94JTIwZmxvd2VycyUyMHJvc2V8ZW58MHx8fHwxNzkzNzAwNzEzfDA&ixlib=rb-4.1.0&q=85",
+      "description": "Luxury gift boxes tied with rose gold silk ribbon and dried roses",
+      "section_usage": "Open Your Little Gift section interactive card background"
+    },
+    {
+      "category": "Rose Gold Flower Accent",
+      "url": "https://images.unsplash.com/photo-1579532649051-ed5208863cd9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzR8MHwxfHNlYXJjaHwzfHxnaWZ0JTIwYm94JTIwZmxvd2VycyUyMHJvc2V8ZW58MHx8fHwxNzkzNzAwNzEzfDA&ixlib=rb-4.1.0&q=85",
+      "description": "Single elegant pink rose on warm rose gold cream backdrop",
+      "section_usage": "Letter to Pappuma section cover image"
+    },
+    {
+      "category": "Golden Hour Couple Walking",
+      "url": "https://images.unsplash.com/photo-1497414826197-4166f61a8e14?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Nzd8MHwxfHNlYXJjaHwyfHxyb21hbnRpYyUyMGNvdXBsZSUyMHN1bnNldCUyMHN1bnNldCUyMGJlYWNoJTIwaG9sZGluZyUyMGhhbmRzfGVufDB8fHx8MTc5MzcwMDcxM3ww&ixlib=rb-4.1.0&q=85",
+      "description": "Couple holding hands on shore during romantic golden hour",
+      "section_usage": "10 Reasons I Love You section subtle background accent"
+    }
+  ],
+  "motion_and_effects": {
+    "library": "framer-motion & canvas-confetti",
+    "scroll_behavior": "smooth scrolling with momentum",
+    "animations": {
+      "fade_up": "initial: { opacity: 0, y: 30 }, animate: { opacity: 1, y: 0 }, transition: { duration: 0.8, ease: 'easeOut' }",
+      "stagger_cards": "staggerChildren: 0.15",
+      "hover_lift": "whileHover: { y: -8, scale: 1.02, transition: { duration: 0.3 } }",
+      "gift_bounce": "animate: { y: [0, -10, 0] }, transition: { repeat: Infinity, duration: 2, ease: 'easeInOut' }"
+    }
+  },
+  "testing_and_data_attributes": {
+    "rule": "All interactive buttons, modals, cards, tabs, and form elements MUST include clear data-testid attributes.",
+    "examples": [
+      "data-testid='welcome-hero-cta'",
+      "data-testid='live-countdown-card'",
+      "data-testid='journey-timeline-item-0'",
+      "data-testid='memory-card-lightbox-trigger'",
+      "data-testid='reason-love-card-1'",
+      "data-testid='letter-open-button'",
+      "data-testid='open-gift-box-button'",
+      "data-testid='locked-reveal-passcode-input'",
+      "data-testid='locked-reveal-submit-button'"
+    ]
+  },
+  "instructions_to_main_agent": [
+    "Strictly adhere to the recipient names: Mathu (Pappuma🤍) and sender Nithin.",
+    "Strictly include all 8 requested exact sections without omitting any.",
+    "Use Javascript (.js / .jsx) components as configured in the existing codebase.",
+    "Ensure contrast compliance for text on warm champagne/ivory backgrounds.",
+    "Include live music control toggle with ambient romantic soundtrack.",
+    "Include secret unlock code 'PAPPUMA2026' or 'MATHU' for immediate birthday reveal testing."
+  ]
+}
